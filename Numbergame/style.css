@@ -1,0 +1,82 @@
+.game{
+    background-image: url(./photos/simple-background-design-suitable-for-pc-ppt-and-other-backgrounds-vector.jpg);
+   background-repeat: no-repeat;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   background-size: cover;
+   font-size: 50px;
+  
+
+   
+   }
+h1{
+    color: rgb(17, 104, 120);
+}
+.open{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(105, 232, 85);
+    color: rgb(73, 10, 26);
+    font-size: 15px;
+}
+p{
+    font-size:15px;
+}
+.show{
+    background-image: url(./photos/open\ photos.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80px;
+    color: bisque;
+}
+.num{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    color: beige;
+}
+.entry{
+     width: 100px;
+    height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    background-color: rgb(88, 39, 211);
+}
+.enter{
+    background-color: aqua;
+    color: blueviolet;
+     width: 100px;
+    height: 40px;
+    border: 2px solid;
+}
+#message{
+    font-family: 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+}
+.success{
+    background-image:url(./photos/Neon-Festive-Confetti-Congratulations-Facebook-Cover-Photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.loss{
+    background-image: url(./photos/loss.webp);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.again{
+     background-color: rgb(217, 96, 56);
+    color:bisque;
+     width: 100px;
+    height: 40px;
+    border: 2px solid;
+}
